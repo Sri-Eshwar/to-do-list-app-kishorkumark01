@@ -1,7 +1,5 @@
-<<<<<<< HEAD
+
 # flutter_To_Do_List
-=======
-# my_first_flutter_app
 
 A new Flutter project.
 
